@@ -1,2 +1,2 @@
-# graphql
-personal repo for learning graphql
+# Graphql
+Personal repo for learning graphql
